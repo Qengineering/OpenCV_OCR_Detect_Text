@@ -37,8 +37,8 @@ DB_TD500_resnet.onnx <br/>
 
 ## Running the app.
 To run the application load the project file OpenCV_Detect_Text.cbp in Code::Blocks.<br/> 
-Next, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
-More information can be found at [OpenCV tutorial](https://docs.opencv.org/4.x/d4/d43/tutorial_dnn_text_spotting.html).
+Next, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/>
+More information can be found at [OpenCV tutorial](https://docs.opencv.org/4.x/d4/d43/tutorial_dnn_text_spotting.html).<br/><br/>
 ![output image]( https://qengineering.eu/github/ocr_out_fr.jpg )
 
 ------------
